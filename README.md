@@ -19,24 +19,29 @@ User Story
 As a user, I want to test my skills as a moderator at a news conference, keeping a balance among all stakeholders. 
 
 Nouns:
-Application
-Instructions
-Questions
-Answers
-Scores
+- Application
+- Instructions
+- Questions
+- Answers
+- Scores
+
 
 Potential objects/components:
-
+- card
+- rules
+- question
+- optionButtons
+- scoreDisplay
 
 Verbs:
-shows
-chooses
-gains and loses
+- shows
+- chooses
+- gains and loses
 
 Potential functions:
-showQuestion()
-chooseButton()
-updateScores()
+- showQuestion()
+- chooseButton()
+- updateScores()
 
 
 
